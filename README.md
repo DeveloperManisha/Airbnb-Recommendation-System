@@ -27,10 +27,12 @@ Libraries: pandas, numpy, matplotlib, Surprise, Spark ml, Spark  MLib, NLTK, sci
 Python 3 with Jupyter Notebook, Spark
 
 Dependencies:
-Install surprise
-pip install scikit-surprise
-conda install -c conda-forge scikit-surprise (Windows, Mac, Linux) using conda
+- Install surprise
 
-Install PySpark
+- pip install scikit-surprise
+
+- conda install -c conda-forge scikit-surprise (Windows, Mac, Linux) using conda
+
+- Install PySpark
 
 Reference tutorial:https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
